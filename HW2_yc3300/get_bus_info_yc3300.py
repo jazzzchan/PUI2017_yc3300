@@ -4,6 +4,7 @@ import urllib2
 import os
 import sys
 
+#'''file_name = sys.argv[0], apikey = sys.argv[1], Bus_line = sys.argv[2]'''
 if not len(sys.argv) == 3:
     print("Invalid number of arguments. Run as: Python get_bus_info.py <BUS_LINE>")
     sys.exit()
@@ -18,8 +19,8 @@ data = json.loads(data)
 
 Bus_Count = len(data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'])
 Bus_Line = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][0]['MonitoredVehicleJourney']['PublishedLineName']
-
 print('Bus Line {}'.format(Bus_Line))
+
 for i in range(Bus_Count):
     Bus_location = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['VehicleLocation']
     Bus_Longitude = Bus_location['Longitude']
