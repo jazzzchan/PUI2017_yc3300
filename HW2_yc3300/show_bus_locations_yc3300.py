@@ -5,7 +5,7 @@ import os
 import sys
 
 if not len(sys.argv) == 3:
-    print("Invalid number of arguments. Run as: Python get_bus_info.py <BUS_LINE>")
+    print("Invalid number of arguments. Run as: Python show_bus_location_yc330.py <BUS_LINE>")
     sys.exit()
 
 Bus_Line = sys.argv[2]
