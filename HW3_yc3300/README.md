@@ -10,7 +10,7 @@ Extra Credit: FIT a gaussian to the distribution of means
 
 Process:
 I copied and pasted Professor's skeleton she did for chisq distribution and I changed distribution and assigned std to each distribution
-For extra credit, Rachel Lim (Lim Xin Rong) helped me with creating an empty list and an i loop, she said that she learnt this method from Alex
+For extra credit, Rachel Lim (Lim Xin Rong) helped me with creating an empty list and an i loop, she said that she learnt this method from Alex. I had difficulties finishing extra credit, so I followed what she told me 
 
 # Assignment 2: Set up the work for data-driven inference based on CitiBike data. You should, even more than usual, work in groups for this!
 
