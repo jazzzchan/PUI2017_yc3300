@@ -29,6 +29,5 @@ Multiple Regression	| 1, Mimicry Score | continuous | 1, score of automatic imit
 I followed Professor's skeleton, Unisse helped with my null hypothesis as I set my original hypothesis was set opposite
 
 ## Assignment 4 
-I tried to follow professor's skeleton for the first part. 
-For the statistical tests, I followed Yuwen Chang's code since my original code has "NAN" and cannot run. 
+I tried to follow professor's skeleton for the first part. Starting from the statistical tests, I followed Yuwen Chang's code since my original code has "NAN" and cannot run. 
 I also followed YuwenChang's code for everything in part2, there are some mistakes due to dataset selections
