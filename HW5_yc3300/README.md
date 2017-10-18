@@ -20,3 +20,10 @@ Test that in fact binomial and Poisson distribution look increasingly more simil
 3. I followed Yuwen's code on chi-square distribution. 
 4. Yuwen explained KL divergence and chi-square, also null hypothesis and results for KS test, AD test, KL and chi-square test, I followed his explanations on four tests(null hypothesis and results)
 
+## Assignment 3: 
+## Process:
+1. the fourth data (the shoot data, the one was not provided by professor) was provided by Rachel Lim, I followed Unisse Chua's code to download the data from url
+2. I followed Yuwen's code to download all the other data.
+3. Because at first I dropped na before the tables were merged, and there was index in my csv, the length of my merged table was different from others, therefore I followed Unisse Chua's method, which is dropping columns for each data table first before merging them.
+4. I followed both professor's skeleton and Unisse Chua's code for the second part (Plot and interpretation for each plot)
+5. I am a bit confused with the third part, i I conducted OLS table, but followed both Unisse Chua's and Yuwen's code for the rest part(Third part) and their interpretation for each model. 
