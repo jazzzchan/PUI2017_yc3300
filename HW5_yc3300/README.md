@@ -9,3 +9,14 @@ Assess the validity of the Z-test: If the samples are drawn from the distributio
 1. I followed Professor's example from the lecture and write the code based on her example
 2. Yukun Wan help me with understanding the question and corrected my code
 3. Yuwen Chang explained why for this question our null hypothesis should be the same as our expectation 
+
+
+## Assignment 2: 
+## Goal: 
+Test that in fact binomial and Poisson distribution look increasingly more similar to Gaussians as the mean of the distribution increases.
+## Process:
+1. I followed professor's skeleton for the first part
+2. For binomial distribution and poisson distribution narray, I initially used np.arange, which built nparray that contains repeated numbers, Unisse Chua helped with it and corrected it to np.linspace.
+3. I followed Yuwen's code on chi-square distribution. 
+4. Yuwen explained KL divergence and chi-square, also null hypothesis and results for KS test, AD test, KL and chi-square test, I followed his explanations on four tests(null hypothesis and results)
+
