@@ -8,3 +8,4 @@ Work from the skeleton notebook https://github.com/fedhere/PUI2017_fb55/blob/mas
 so I corrected the code using Unisse's download method. She explained how and why she wrote the code. 
 2. I matched my data cleaning table with Unisse's and corrected mine based on hers. She explained hwo she cleaned data based on professor's graph later
 3. Unisse reminded me that instead of just dropping NANs, I should covert all the invalid entries into NAN by using pd.to_numeric as suggested in instructions
+4. I went back to remove the outliers after the review session, as a part of data cleaning
