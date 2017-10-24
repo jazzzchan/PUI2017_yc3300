@@ -9,3 +9,5 @@ so I corrected the code using Unisse's download method. She explained how and wh
 2. I matched my data cleaning table with Unisse's and corrected mine based on hers. She explained hwo she cleaned data based on professor's graph later
 3. Unisse reminded me that instead of just dropping NANs, I should covert all the invalid entries into NAN by using pd.to_numeric as suggested in instructions
 4. I went back to remove the outliers after the review session, as a part of data cleaning
+5. I followed both Professor's instruction and Unisse's code for plotting and regression Models
+6. I had trouble understanding the instruction, so I followed Unisse's code and her solution of understanding the question
