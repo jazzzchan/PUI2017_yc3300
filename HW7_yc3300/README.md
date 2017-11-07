@@ -14,3 +14,6 @@ _$H_1$ : $\frac{W{\mathrm{weekend}}}{W{\mathrm{week}}} > \frac{M{\mathrm{weekend
 3. Besides than doing subscrier and customer comparison March, as suggested by Unisse Chua, I am also doing one in June
 
 ## Assignment 2: finish SQL lab
+## Process: 
+1. I used professor's skeleton and professor hvo's class notes(codes from class and his lab key) for all SQL tasks and the extra credit question 
+2. I received help from Unisse Chua for Task 2 and 3
