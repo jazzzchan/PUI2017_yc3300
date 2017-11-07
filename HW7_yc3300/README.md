@@ -11,6 +11,6 @@ _$H_0$ : $\frac{S{\mathrm{weekend}}}{W{\mathrm{week}}} <= \frac{M{\mathrm{weeken
 _$H_1$ : $\frac{W{\mathrm{weekend}}}{W{\mathrm{week}}} > \frac{M{\mathrm{weekend}}}{M_{\mathrm{week}}}$
 
 2. I am finishing model analysis using the chi-squared test Charlie's feedback. The first part of my assignment came from Hw4 and chi-sq test came from HW4-assigntment3 chi-test
-
+3. Besides than doing subscrier and customer comparison March, as suggested by Unisse Chua, I am also doing one in June
 
 ## Assignment 2: finish SQL lab
