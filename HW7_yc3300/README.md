@@ -1,5 +1,6 @@
 ## Assignment 1: Finish your Citibike miniproject
 https://www.authorea.com/users/174972/articles/210744-citibike-miniproject
+https://www.authorea.com/211563/ekwJPRQUF8yA-aUfUn8Ynw (or this, not sure which link works)
 
 1. Work with the same team with which you submitted the proposal and turn in a single Authorea report. 
 2. Finish the Citibike analysis you set up in HW3 in a notebook. Perform the appropriate statistical test. Incorporate your classmate's comment (from the review you recieved in HW4) where appropriate, and when you are not incorporating them discuss why the suggestions were not embraced.
@@ -14,6 +15,7 @@ _$H_1$ : $\frac{W{\mathrm{weekend}}}{W{\mathrm{week}}} > \frac{M{\mathrm{weekend
 
 2. I am finishing model analysis using the chi-squared test Charlie's feedback. The first part of my assignment came from Hw4 and chi-sq test came from HW4-assigntment3 chi-test
 3. Besides than doing subscrier and customer comparison March, as suggested by Unisse Chua, I am also doing one in June
+4. I received suggestions from Uniss chua, who is working with Rachel and Gaurav
 
 ## Assignment 2: finish SQL lab
 ## Process: 
