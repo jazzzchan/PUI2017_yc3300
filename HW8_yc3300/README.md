@@ -5,3 +5,5 @@
 3. I received help on debugging codes from Rachel and Unisse Chua, but I managed to finish the skeleton individually. 
 4. It's not surprised to see that most areas in Manhattan has the most complaints on traffic, but it's unexpected to see that Staten Island 
 somehow has a relevant high level of complaints on traffic as well. 
+
+![311_trafficcomplaint_plot](https://github.com/jazzzchan/PUI2017_yc3300/blob/master/HW8_yc3300/311_trafficcomplaint_plot.PNG)
