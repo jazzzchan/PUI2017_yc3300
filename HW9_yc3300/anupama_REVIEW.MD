@@ -8,7 +8,7 @@ This plot is easy to read, the difference in color distinguishes the level of di
 
 This plot used yellow and green to show difference in different quartile category. However, for certain groups of people who cannot tell 
 green and yellow apart (though I am not sure the level of brightness will be affective), they may have trouble telling what quartile those
-areas belong to. On top of yellow and green, she also uses grey, which for color bl
+areas belong to. On top of yellow and green, she also uses grey, which for color blinded it's can be hard to tell between yellow and green. 
 
 ### HONESTY: is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
 The plot honestly reproduce the data without emphasizing any point. 
