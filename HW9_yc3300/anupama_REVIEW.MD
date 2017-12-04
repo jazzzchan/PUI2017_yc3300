@@ -12,3 +12,9 @@ areas belong to. On top of yellow and green, she also uses grey, which for color
 
 ### HONESTY: is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
 The plot honestly reproduce the data without emphasizing any point. 
+
+# FBB feedback
+
+Good work. However I have an additional issue abotu the color choice: the lowest quantile  is black (or dark gray) and the highest is gray. this automatically implies that the emphases on the plot is on the middle quantiles, cause gray and black used in conjunction with colors are used to draw attention to the datapoints (areas here) with colors. Meanwhile the caption singles out Brooklyn. This is inconsistent.
+
+10/10
