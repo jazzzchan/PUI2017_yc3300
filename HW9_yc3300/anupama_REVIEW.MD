@@ -17,4 +17,6 @@ The plot honestly reproduce the data without emphasizing any point.
 
 Good work. However I have an additional issue abotu the color choice: the lowest quantile  is black (or dark gray) and the highest is gray. this automatically implies that the emphases on the plot is on the middle quantiles, cause gray and black used in conjunction with colors are used to draw attention to the datapoints (areas here) with colors. Meanwhile the caption singles out Brooklyn. This is inconsistent.
 
+Also axis labels are missing, but this is passable in the case of a map of NYC as the geometry of NYC is unambiguous
+
 10/10
