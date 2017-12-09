@@ -12,3 +12,19 @@ The choice of colors is approprite for this plot if Juan is trying to distinguis
 
 ### HONESTY: is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
 The plot honestly reproduce the data without emphasizing any point. 
+
+# FBB feedback 
+
+things you missed:
+
+ clarity 
+The legend is too small to read, and asymmetric: it states Manhattan red, rest blue, and plots a single blue data point for the rest of the city. either both should be plotted or neither. this is detracting from clarity. 
+
+the point size is a further dimension plotted but it is not explained what different point sizes mean
+
+The labels are too small everywhere. 
+
+ esthetics: 
+the low resolution is both distracting and unappealing
+
+9/10
